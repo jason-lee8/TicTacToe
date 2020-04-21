@@ -1,6 +1,6 @@
 """
-Tic Tac Toe
-By Jason Anackatory Lee
+Tic Tac Toe Python Script
+By Jason Lee
 """
 import random
 import time
